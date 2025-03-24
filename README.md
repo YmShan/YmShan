@@ -3,6 +3,7 @@
 :mag: I’m currently working on 
    - Spiking Neural Networks
    - Neuromorphic Computing (like [OpenWorm](https://github.com/openworm) and [Flyware](https://virtualflybrain.org/))
+   - Spike-driven Tracking
 
 :gift_heart: I’m currently interested in
    - Large Launguage Model (LLM)
