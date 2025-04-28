@@ -7,9 +7,7 @@
 
 :gift_heart: I’m currently interested in
    - Large Launguage Model (LLM)
-   - Lightweight network
    - Deployment and performance analysis of SNNs on neuromorphic chips.
 
 :green_heart: My hobbies include:
    - :dart:Archery (competitive recurve and American hunting bows)
-   - :video_game:Electronic sports (League of Legends)
